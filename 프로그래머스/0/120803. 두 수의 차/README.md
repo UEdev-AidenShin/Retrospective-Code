@@ -18,56 +18,7 @@
 
 2025년 01월 20일 09:23:41
 
-### 문제 설명
+### 작성자 의도
 
-<p>정수 <code>num1</code>과 <code>num2</code>가 주어질 때, <code>num1</code>에서&nbsp;<code>num2</code>를 뺀 값을 return하도록 soltuion 함수를 완성해주세요.</p>
-
-<hr>
-
-<h5>제한사항</h5>
-
-<ul>
-<li>-50000 ≤ <code>num1</code> ≤ 50000</li>
-<li>-50000 ≤ <code>num2</code> ≤ 50000</li>
-</ul>
-
-<hr>
-
-<h4>입출력 예</h4>
-<table class="table">
-        <thead><tr>
-<th>num1</th>
-<th>num2</th>
-<th>result</th>
-</tr>
-</thead>
-        <tbody><tr>
-<td>2</td>
-<td>3</td>
-<td>-1</td>
-</tr>
-<tr>
-<td>100</td>
-<td>2</td>
-<td>98</td>
-</tr>
-</tbody>
-      </table>
-<hr>
-
-<h5>입출력 예 설명</h5>
-
-<p>입출력 예 #1</p>
-
-<ul>
-<li><code>num1</code>이 2이고 <code>num2</code>가 3이므로 2 - 3 = -1을 return합니다.</li>
-</ul>
-
-<p>입출력 예 #2</p>
-
-<ul>
-<li><code>num1</code>이 100이고 <code>num2</code>가 2이므로 100 - 2 = 98을 return합니다.</li>
-</ul>
-
-
-> 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+`answer`를 `num1`과 `num2` 를 뺀 값으로 변수해주고
+`answer`를 반환한다고 정의해보았다
