@@ -1,4 +1,4 @@
-# [level 0] 두 수의 곱 - 120804 
+# [level 0] 2. 두 수의 곱
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120804) 
 
